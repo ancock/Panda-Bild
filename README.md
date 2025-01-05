@@ -88,6 +88,7 @@
     <section id="klimawandel">
         <h2>Klimawandel und seine Auswirkungen</h2>
         <p>Der Große Panda musste seinen Lebensraum in höhere Bergregionen Chinas verlagern, da der Klimawandel die Verfügbarkeit von Bambus beeinflusst. Steigende Temperaturen und veränderte Niederschlagsmuster bedrohen das Wachstum von Bambus in tiefer gelegenen Regionen. Diese Veränderungen zwingen die Pandas dazu, kühlere, höher gelegene Gebiete aufzusuchen, was ihre ohnehin begrenzten Lebensräume weiter einschränkt.</p>
+        <img src="klimawandel_panda.jpg" alt="Panda in einem Bambuswald" title="Ein Panda im Bambuswald, der vom Klimawandel betroffen ist">
     </section>
 
     <section id="hilfe" class="content">
